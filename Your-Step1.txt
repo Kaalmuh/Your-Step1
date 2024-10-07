@@ -3,4 +3,3 @@ Sulaiha Corp
 -Membuat platform untuk pengelolaan video
 -Menghasilkan apa yang sudah dipelajari
 -Membuat online shop
--Kolaborasi dan menuju langkah selanjutnya
